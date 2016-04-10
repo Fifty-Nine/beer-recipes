@@ -1,0 +1,45 @@
+﻿
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: SMASH Marris Otter/Cascade Session IPA
+Brewer: Tim Prince
+Asst Brewer: 
+Style: American IPA
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 4.67 gal
+Post Boil Volume: 3.64 gal
+Batch Size (fermenter): 3.25 gal   
+Bottling Volume: 2.88 gal
+Estimated OG: 1.042 SG
+Estimated Color: 4.0 SRM
+Estimated IBU: 38.2 IBUs
+Brewhouse Efficiency: 65.00 %
+Est Mash Efficiency: 70.0 %
+Boil Time: 90 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+5 lbs                 Pale Malt, Maris Otter (3.0 SRM)         Grain         1        94.7 %        
+0.50 oz               Cascade [7.20 %] - First Wort 90.0 min   Hop           2        25.3 IBUs     
+1.50 oz               Cascade [7.20 %] - Boil 5.0 min          Hop           3        12.9 IBUs     
+4.5 oz                Corn Sugar (Dextrose) (0.0 SRM)          Sugar         4        5.3 %         
+
+
+Mash Schedule: BIAB, Light Body
+Total Grain Weight: 5 lbs 4.5 oz
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Saccharification  Add 5.04 gal of water at 152.7 F        147.9 F       90 min        
+Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+
+Sparge: If steeping, remove grains, and prepare to boil wort
+Notes:
+------
+This was my first EBIAB attempt. I overestimated the brewhouse efficiency, so the corn sugar was added to bring the gravity up into the target range. I'm not sure why the efficiency is quite so low, but I plan on using the calculated 65% as my initial estimate for future recipes until I get everything dialed in. Hopefully I'll be able to bring the efficiency up as I get used to the new equipment.
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
