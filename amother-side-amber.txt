@@ -1,0 +1,47 @@
+﻿
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Another Side Amber
+Brewer: Tim Prince
+Asst Brewer: 
+Style: American Amber Ale
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.41 gal
+Post Boil Volume: 5.46 gal
+Batch Size (fermenter): 5.00 gal   
+Bottling Volume: 4.63 gal
+Estimated OG: 1.046 SG
+Estimated Color: 15.3 SRM
+Estimated IBU: 35.4 IBUs
+Brewhouse Efficiency: 65.00 %
+Est Mash Efficiency: 68.2 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+7 lbs 8.0 oz          Pale Malt, Maris Otter (3.0 SRM)         Grain         1        78.9 %        
+1 lbs 8.0 oz          Caramel/Crystal Malt - 80L (80.0 SRM)    Grain         2        15.8 %        
+8.0 oz                Toasted Malt (27.0 SRM)                  Grain         3        5.3 %         
+1.00 oz               Cascade [7.20 %] - First Wort 60.0 min   Hop           4        29.1 IBUs     
+1.00 oz               Tettnang [4.50 %] - Steep/Whirlpool  30. Hop           5        6.3 IBUs      
+1.0 pkg               American Ale (Wyeast Labs #1056) [124.21 Yeast         6        -             
+
+
+Mash Schedule: BIAB, Medium Body
+Total Grain Weight: 9 lbs 8.0 oz
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Saccharification  Add 7.11 gal of water at 158.4 F        152.1 F       75 min        
+Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+
+Sparge: If steeping, remove grains, and prepare to boil wort
+Notes:
+------
+First attempt at a full 5 gal. BIAB. I had an ounce of cascade hops left over from SMASHMOCSIPA, so I'm using those as the bittering hops.
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
